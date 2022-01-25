@@ -1,0 +1,13 @@
+{
+  "name": "music-cast-proxy-server",
+  "version": "1.0.0",
+  "description": "Proxy server to bypass CORS when communicating with my Yamaha music cast",
+  "main": "server.js",
+  "author": "jfamousket",
+  "license": "MIT",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.17.2",
+    "http-proxy": "^1.18.1"
+  }
+}
